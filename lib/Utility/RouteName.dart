@@ -1,0 +1,43 @@
+import 'package:flutter/material.dart';
+
+class RouteName{
+  static const String chooseLocation='choos_location';
+  static const String splashScreen='splash_screen';
+  static const String onBoardingScreen='onboarding_screen';
+  static const String loginSignupScreen='login_signup';
+  static const String loginScreen='login_screen';
+  static const String signinScreen='signin_screen';
+  static const String chooseMethod='choose_Method';
+  static const String enteremail='entere_email';
+  static const String enterPhone='entere_phone';
+  static const String verificationOtp='verification_otp';
+  static const String createNewPassword='create_new_password';
+  static const String sucess='sucess';
+  static const String favriteEvent='faverorite_Event';
+  static const String followOrganizers='follow_organizers';
+  static const String loadingPersonlinzation='Loading_personalization';
+  static const String persistance_bottom_Nav_bar='persistance_bottom_nav_bar';
+  static const String home='home';
+  static const String eventDetail='Event_Details';
+  static const String nearbyEvent='nearby_event';
+  static const String locationNeabyEvent='nearbyEvent_location';
+  static const String contectOrganizer='ContectOrganizer';
+  static const String selectTime='select_Time';
+  static const String TicketType='ticket_type';
+  static const String checkOut='check_Out';
+  static const String paymentMethod='payment_method';
+  static const String orderComplete='order_complete';
+  static const String searchResult='search_result';
+  static const String searchResultMapView='search_result_map_view';
+  static const String ticketDetail='ticket_detail';
+  static const String directions='directioins';
+  static const String editProfile='edit_Profile';
+  static const String language='language';
+  static const String notification='notification';
+  static const String darkMode='darkMode';
+  static const String payment_methodAccount='payment_method_account';
+  static const String faqs='faqs';
+  static const String about='About';
+  static const String newPaymentMethod='New_Payment_Method';
+  static const String organizer_profile='organizer_profile';
+}
